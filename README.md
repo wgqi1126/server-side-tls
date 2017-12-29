@@ -1,8 +1,6 @@
-Server Side TLS
+服务器SSL证书配置生成器
 ===============
 
-Welcome to Mozilla's SSL/TLS Configuration Generator. For direct access to the
-generator, follow this link: https://mozilla.github.io/server-side-tls/ssl-config-generator/
+这是一个服务器SSL证书配置生成器，项目来源于 https://github.com/mozilla/server-side-tls 这里只是其汉化的版本。
 
-This repository also contains the mediawiki source for Mozilla's Server Side TLS
-document at https://wiki.mozilla.org/Security/Server_Side_TLS .
+可以访问此链接来生成您服务器的配置：https://ssl-gen.guangqi.wang
